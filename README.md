@@ -30,3 +30,7 @@
 Подготовлен отчет о выполнении работы в программе Cico Packet Tracer:
 
 [Отчет](https://docs.google.com/document/d/14i9TULV4TFE43Ms7pnuwtJ3VIUtVhkgW/edit?usp=sharing&ouid=105968432542920230595&rtpof=true&sd=true)
+
+## ✅ Экзаменационные билет №22
+
+Ответ на экзаменационный билет №22(https://github.com/stankin/inet-2022/wiki/exam22#%D0%B1%D0%B8%D0%BB%D0%B5%D1%82-22) доступен по ссылке:
